@@ -2,7 +2,7 @@
 
 |本期版本|上期版本
 |:---:|:---:
-`Sun May 22 20:59:50 CST 2022` | -
+`Thu Sep 15 14:55:07 CST 2022` | `Sun May 22 20:59:50 CST 2022`
 
 ```bash
 terser main.js -o main.min.js --source-map --compress --mangle
